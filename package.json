@@ -1,0 +1,19 @@
+{
+  "name": "hammer-js-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullPokerFace/hammerjs-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullPokerFace/hammerjs-clone/issues"
+  },
+  "homepage": "https://github.com/FullPokerFace/hammerjs-clone#readme"
+}
